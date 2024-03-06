@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCiGhfWFBAmwMVZIkjJuP2Ph_N4JjZmvsM',
-    appId: '1:959806758963:android:12c9e6a886d98bf6204346',
-    messagingSenderId: '959806758963',
-    projectId: 'weatherapp-c65a0',
-    storageBucket: 'weatherapp-c65a0.appspot.com',
+    apiKey: 'AIzaSyB4n0j9fIcrQ_bnBm1ZxHGUadhu34-UquM',
+    appId: '1:869654679054:android:4cf5a86661f7a5bdf5b65f',
+    messagingSenderId: '869654679054',
+    projectId: 'wheaterapp-e2a4a',
+    storageBucket: 'wheaterapp-e2a4a.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAy79zY7TldnYdzrbKVtHWTW5ku0EMMl1I',
-    appId: '1:959806758963:ios:ace28813e24f98b5204346',
-    messagingSenderId: '959806758963',
-    projectId: 'weatherapp-c65a0',
-    storageBucket: 'weatherapp-c65a0.appspot.com',
+    apiKey: 'AIzaSyBUE2_mPS7Vt8XjzTDMcSxrw1cSeBJIX5M',
+    appId: '1:869654679054:ios:252d57cad148e0d2f5b65f',
+    messagingSenderId: '869654679054',
+    projectId: 'wheaterapp-e2a4a',
+    storageBucket: 'wheaterapp-e2a4a.appspot.com',
     iosBundleId: 'com.example.weatherApp',
   );
 }

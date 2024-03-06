@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAy79zY7TldnYdzrbKVtHWTW5ku0EMMl1I</string>
+	<string>AIzaSyBUE2_mPS7Vt8XjzTDMcSxrw1cSeBJIX5M</string>
 	<key>GCM_SENDER_ID</key>
-	<string>959806758963</string>
+	<string>869654679054</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.weatherApp</string>
 	<key>PROJECT_ID</key>
-	<string>weatherapp-c65a0</string>
+	<string>wheaterapp-e2a4a</string>
 	<key>STORAGE_BUCKET</key>
-	<string>weatherapp-c65a0.appspot.com</string>
+	<string>wheaterapp-e2a4a.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:959806758963:ios:ace28813e24f98b5204346</string>
+	<string>1:869654679054:ios:252d57cad148e0d2f5b65f</string>
 </dict>
 </plist>
